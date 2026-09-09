@@ -4,6 +4,7 @@ This project focuses on detecting fake news articles using Natural Language Proc
 
 ---
 
+
 ## 📌 Project Overview
 
 Fake news has become a major problem in the digital era. This project uses **TF-IDF Vectorization** and **Logistic Regression** to build an efficient fake news detection system.
@@ -32,6 +33,7 @@ The project uses two datasets:
 Each dataset includes text-based news data used for training and testing the model.
 
 ---
+
 
 ## ⚙️ Project Workflow
 
